@@ -11,6 +11,10 @@ body {
 
 /*title*/
 
+.jav .qstn {
+    color: #fff;
+}
+
 #title {
     padding: 3% 15% 7%;
 }
